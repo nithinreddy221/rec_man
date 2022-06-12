@@ -1,2 +1,2 @@
-# rec_man
-Teams and employee management system with flask and react.
+# resource_management
+Teams and employee management system with flask and react. 
