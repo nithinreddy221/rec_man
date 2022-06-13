@@ -37,8 +37,11 @@ Teams and employee management system with flask and react.
   and exit from shell.<br><br>
   Now we can run the project
   <pre>python3 app.py</pre>
-</p>
+</p><br><br>
 <p>
+You can check all urls by Insomnia application (https://docs.insomnia.rest/insomnia/install)
+You can export `projectURLS` file to that application and you can test all endpoints from there.
+<p><br><br>
 <h3>#React Setup:</h3><br>
    <b>NOTE:</b> should have npm and node installed in our system (REF: https://linuxhint.com/install-node-js-npm-ubuntu-s20-04/)<br>
   Go to react root folder
